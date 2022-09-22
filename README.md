@@ -4,7 +4,7 @@
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 <h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
 
-<img align="right" alt="Coding" width="300" src="https://scontent.fesb4-2.fna.fbcdn.net/v/t58.21685-6/99902316_795745211693762_29568060677596812_n.png?stp=dst-png_p360x360&_nc_cat=109&ccb=1-7&_nc_sid=eaa83b&_nc_ohc=H3oger70xdAAX-VLJh7&_nc_ht=scontent.fesb4-2.fna&oh=00_AT8e7BIYy8JBLzXDUqWqo5g_Zvn2JuSJPBSqjotlfXTjfQ&oe=632DE2BD"/>
+<img align="right" alt="Coding" width="200" src="https://scontent.fesb4-2.fna.fbcdn.net/v/t58.21685-6/99902316_795745211693762_29568060677596812_n.png?stp=dst-png_p360x360&_nc_cat=109&ccb=1-7&_nc_sid=eaa83b&_nc_ohc=H3oger70xdAAX-VLJh7&_nc_ht=scontent.fesb4-2.fna&oh=00_AT8e7BIYy8JBLzXDUqWqo5g_Zvn2JuSJPBSqjotlfXTjfQ&oe=632DE2BD"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhcanatar&label=Profile%20views&color=0e75b6&style=flat" alt="nuhcanatar" /> </p>
