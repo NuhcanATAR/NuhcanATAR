@@ -4,14 +4,10 @@
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 <h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
 
-<img align="right" alt="Coding" width="200" src="https://firebasestorage.googleapis.com/v0/b/whatsappdb-331ab.appspot.com/o/resim_2023-01-21_123311471.png?alt=media&token=8899d943-97aa-43a2-81fa-de345647d844"/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhcanatar&label=Profile%20views&color=0e75b6&style=flat" alt="nuhcanatar" /> </p>
+<img align="right" alt="Coding" width="200" src="https://firebasestorage.googleapis.com/v0/b/blogdb-6ac10.appspot.com/o/aaaaa.PNG?alt=media&token=e011e608-c392-4827-be82-b0358d370fd4"/>
 
 
 
-<p align="left"> <a href="https://twitter.com/nuhcanatar0" target="blank"><img src="https://img.shields.io/twitter/follow/nuhcanatar0?logo=twitter&style=for-the-badge" alt="nuhcanatar0" /></a> </p>
 
 - 🔭 şu anda üzerinde çalışıyorum **Mobil Uygulama Geliştirme**
 
@@ -21,7 +17,7 @@
 
 - 📫 Benle iletişim kurmak için **nuhcanatar20@gmail.com**
 
-- 📄 deneyimlerimden haberdar ol [https://www.instagram.com/nuhcan_atar/](https://www.instagram.com/nuhcan_atar/)
+- 📄 deneyimlerimden haberdar ol https://www.linkedin.com/in/nuhcan-atar-371276208/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
