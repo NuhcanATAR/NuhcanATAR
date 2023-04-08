@@ -4,7 +4,8 @@
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 <h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
 
-<img align="right" alt="Coding" width="200" src="https://firebasestorage.googleapis.com/v0/b/blogdb-6ac10.appspot.com/o/aaaaa.PNG?alt=media&token=e011e608-c392-4827-be82-b0358d370fd4"/>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/77950761/230709603-7242ed7c-8c8b-4c25-b12c-c5a676e58816.jpg"/>
+
 
 
 
