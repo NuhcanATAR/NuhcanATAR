@@ -1,12 +1,10 @@
 
-<img align="center" alt="Coding" width="1000"  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/>
+<img align="center" alt="Coding" width="1000"  src="https://user-images.githubusercontent.com/77950761/230709942-db287769-ff11-44f6-9965-b4952802a9d9.jpg"/>
 
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 <h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/77950761/230709603-7242ed7c-8c8b-4c25-b12c-c5a676e58816.jpg"/>
-
-
 
 
 
