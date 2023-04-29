@@ -1,5 +1,4 @@
 
-<img align="center" alt="Coding" width="1000"  src="https://user-images.githubusercontent.com/77950761/230709942-db287769-ff11-44f6-9965-b4952802a9d9.jpg"/>
 
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 <h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
