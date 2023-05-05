@@ -1,5 +1,3 @@
-
-
 <br clear="both">
 
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
@@ -7,10 +5,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/tJ2sekm3lZsbMX443g/giphy.gif?cid=ecf05e475iof3phbk9rzfzknqr14ec67k3qqo44c2iav6inx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="180" src="https://media3.giphy.com/media/tJ2sekm3lZsbMX443g/giphy.gif?cid=ecf05e475iof3phbk9rzfzknqr14ec67k3qqo44c2iav6inx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+##
 
 <br clear="both">
 
