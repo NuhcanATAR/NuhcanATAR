@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
 
 ###
