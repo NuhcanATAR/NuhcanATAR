@@ -1,31 +1,104 @@
 
 
+<br clear="both">
+
 <h1 align="center">Merhaba 👋, Ben Nuhcan ATAR</h1>
-<h3 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h3>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/77950761/230709603-7242ed7c-8c8b-4c25-b12c-c5a676e58816.jpg"/>
+###
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/tJ2sekm3lZsbMX443g/giphy.gif?cid=ecf05e475iof3phbk9rzfzknqr14ec67k3qqo44c2iav6inx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
+###
 
-- 🔭 şu anda üzerinde çalışıyorum **Mobil Uygulama Geliştirme**
+<br clear="both">
 
-- 👨‍💻 Tüm projelerim şurada mevcuttur [https://www.linkedin.com/in/nuhcan-atar-371276208/](https://www.linkedin.com/in/nuhcan-atar-371276208/)
+<h4 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h4>
 
-- 💬 Bana sor **Flutter, Dart, Firebase**
+###
 
-- 📫 Benle iletişim kurmak için **nuhcanatar20@gmail.com**
+<br clear="both">
 
-- 📄 deneyimlerimden haberdar ol https://www.linkedin.com/in/nuhcan-atar-371276208/
+<p align="center">Ben Nuhcan ATAR, Çorum/Merkez Hitit Üniversitesi Teknik Bilimler Meslek Yüksekokulu Bilgisayar Teknolojiler Bilgisayar Programcılığı Programı Okuyorum, 3 Yıl 10 Aydır Yazılım Geliştirme Alanında Kendimi Geliştiriyorum buna ek olarak 2 yıl 4 Aydır Mobil Uygulama Geliştirme Alanında Uzmanlaşıyorum ve Öğreniyorum, şu anada kadar durmadan, sıkılmadan, zevkle mobil uygulama geliştiriyorum görünürde basit ama etkili olabilecek projelerimi burada ve LinkedIn Hesabımda Paylaşıyorum ama Gizlide Geliştirdiğim Projelerimde vardır. Tekrardan Githubuma Hoşgeldin <3</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nuhcanatar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuhcanatar0" height="30" width="40" /></a>
-<a href="https://instagram.com/nuhcan_atar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuhcan_atar" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h5 align="left">Geliştirdiğim ve Tecrübemin Olduğu Teknolojiler:</h5>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhcanatar&show_icons=true&locale=en&layout=compact" alt="nuhcanatar" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhcanatar&show_icons=true&locale=en" alt="nuhcanatar" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+</div>
+
+###
+
+<h5 align="left">Kullandığım Veritabanı Teknolojileri:</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h5 align="left">Benle iletişime geçebilirsin:</h5>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nuhcan-atar-371276208/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/15011521/nuhcanatar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="nuhcanatar20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nuhcan_atar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/nuhcan.atar.19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/nuhcanatar0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="Nuhcan ATAR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="NuhcanATAR#9217" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NuhcanATAR&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NuhcanATAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=NuhcanATAR&locale=en&mode=weekly&theme=solarized-light&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="170" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NuhcanATAR/NuhcanATAR/output/snake.svg" alt="Snake animation" />
+
+###
