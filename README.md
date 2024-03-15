@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<p align="center">Ben Nuhcan ATAR, Çorum/Merkez Hitit Üniversitesi Teknik Bilimler Meslek Yüksekokulu Bilgisayar Teknolojiler Bilgisayar Programcılığı Programı Okuyorum, 4 Yıl 5 Aydır Yazılım Geliştirme Alanında Kendimi Geliştiriyorum, 2 yıl 11 Aydır Mobil Uygulama Geliştirme Alanında Uzmanlaşıyorum, şu anada kadar durmadan, sıkılmadan, zevkle mobil uygulama geliştiriyorum görünürde basit ama etkili olabilecek projelerimi burada ve LinkedIn Hesabımda Paylaşıyorum ama Gizlide Geliştirdiğim Projelerimde vardır. Tekrardan Githubuma Hoşgeldin <3</p>
+<p align="center">Ben Nuhcan ATAR, Çorum/Merkez Hitit Üniversitesi Teknik Bilimler Meslek Yüksekokulu Bilgisayar Teknolojiler Bilgisayar Programcılığı Programı Okuyorum, 4 Yıl 5 Aydır Yazılım Geliştirme Alanında Kendimi Geliştiriyorum, 2 yıl 11 Aydır Mobil Uygulama Geliştirme Alanında Uzmanlaşıyorum, şu anada kadar durmadan, sıkılmadan, zevkle mobil uygulama geliştiriyorum projelerimi burada ve LinkedIn Hesabımda Paylaşıyorum ama Gizlide Geliştirdiğim Projelerimde vardır. Tekrardan Githubuma Hoşgeldin <3</p>
 
 ###
 
