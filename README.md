@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://media1.giphy.com/media/jTWzRJBdftPAKOaRUb/giphy.gif?cid=ecf05e47m8p2wwyzk2ad1o6cyx2h29ogmonhom7qkuyjqefe&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdzM2l3M3ltdXhzNGNzamZmdG5jNWtvY2d6c3F6czB0Z2VjdGNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAplZhiLAsNnG/giphy.webp"  />
 </div>
 
 ##
@@ -22,29 +22,26 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+ <a href="https://flutter.dev">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  /></a>
+<a href="https://dart.dev">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  /></a>
+<a href="https://nodejs.org/en">  <img src="https://github.com/user-attachments/assets/daadb2a7-d4c5-412e-b5da-4d93f87d215e" height="52" width="52" alt="node.js logo"  /></a>
+  <a href="https://www.docker.com"> <img src="https://github.com/user-attachments/assets/36323e3c-2df0-47e5-9065-ac245f3bc078" height="40" width="40" alt="docker logo"  /></a>
+ <a href="https://www.php.net">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  /></a>
+ <a href="https://developer.android.com/?hl=tr">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  /></a>
+ <a href="https://www.postman.com">  <img src="https://github.com/user-attachments/assets/8df0fab0-4d97-47b9-a0e1-b11da26600b6" height="40" width="40 alt="postman logo"  /></a>
+ <a href="https://git-scm.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /></a>
+ <a href="https://github.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  /></a>
 </div>
-
-###
+ 
 
 <h5 align="left">Kullandığım Veritabanı Teknolojileri:</h5>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+   <a href="https://firebase.google.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  /></a>
+   <a href="https://www.mysql.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /></a>
+  <a href="https://www.microsoft.com/tr-tr/sql-server">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  /></a>
 </div>
 
 ###
@@ -60,24 +57,16 @@
   <a href="https://stackoverflow.com/users/15011521/nuhcanatar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="nuhcanatar20@gmail.com" target="_blank">
+  <a href="mailto:nuhcanatar20@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/nuhcan_atar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/nuhcan.atar.19" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
   <a href="https://twitter.com/nuhcanatar0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="Nuhcan ATAR" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="NuhcanATAR#9217" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
 </div>
 
 ###
