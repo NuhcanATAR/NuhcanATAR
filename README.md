@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdzM2l3M3ltdXhzNGNzamZmdG5jNWtvY2d6c3F6czB0Z2VjdGNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAplZhiLAsNnG/giphy.webp"  />
+  <img height="210" src="https://i.makeagif.com/media/10-26-2015/C3IAd4.gif"  />
 </div>
 
 ##
@@ -13,6 +13,7 @@
 
 <h4 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h4>
 
+<h4 align="center">ve Sagopa Hastasıyım</h4>
 ###
 
 ###
