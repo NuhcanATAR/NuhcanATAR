@@ -14,6 +14,7 @@
 
 <h4 align="center">Türkiye'den tutkulu bir Mobil Uygulama Geliştiricisiyim</h4>
 
+<h4 align="center">ve Sagopa Hastasıyım</h4>
 ###
 
 ###
