@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img height="210" src="https://i.makeagif.com/media/10-26-2015/C3IAd4.gif"  />
-</div>
+
 
 ##
 
